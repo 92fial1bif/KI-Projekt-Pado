@@ -45,6 +45,15 @@ public class Main {
 		anzahlGesuchtesWort("ironic");
 		anzahlGesuchtesWort("sarcassm");
 		anzahlGesuchtesWort("kidding");
+		anzahlGesuchtesWort("this");
+		anzahlGesuchtesWort("these");
+		anzahlGesuchtesWort("those");
+		anzahlGesuchtesWort("the");
+		//anzahlGesuchtesWort("a");
+		//anzahlGesuchtesWort("an");
+		anzahlGesuchtesWort("who");
+		anzahlGesuchtesWort("which");
+		anzahlGesuchtesWort("whose");
 		entferneUrspruenglicheAttribute();
 		speichern();
 	}
